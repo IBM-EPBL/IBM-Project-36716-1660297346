@@ -50,8 +50,8 @@ Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Open CV,Deep Learning,Pyt
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
-[contributors-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/graphs/contributors
+[contributors-url]:https://github.com/IBM-EPBL/IBM-Project-36716-1660297346/graphs/contributors
 [forks-shield]:https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
-[forks-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/network/members
+[forks-url]:https://github.com/IBM-EPBL/IBM-Project-36716-1660297346/network/members
 [stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
-[stars-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/stargazers
+[stars-url]:https://github.com/IBM-EPBL/IBM-Project-36716-1660297346/stargazers
